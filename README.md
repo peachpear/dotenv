@@ -1,2 +1,2 @@
-# dotenv
-dotenv is a environment config classs
+# phpdotenv
+phpdotenv is a php environment config classs
