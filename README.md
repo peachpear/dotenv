@@ -21,7 +21,7 @@ hostport = 3306
 
 The file `index.php`, eg:
 ```
-Dotenv\Dotenv::load(__DIR__ . ".env");
+Dotenv\Dotenv::load(__DIR__ . "/.env");
 ```
 
 The config file, eg:
